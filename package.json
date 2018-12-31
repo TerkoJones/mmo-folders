@@ -1,0 +1,11 @@
+{
+  "name": "mmo-folders",
+  "description": "Gestión de carpetas de la aplicación",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "TerkoJones <terkojones@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "cls && node ./test/test.js"
+  }
+}
